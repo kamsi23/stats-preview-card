@@ -103,9 +103,6 @@ h1 span {
 
 .card-image::after {
   background: var(--Purple-500);
-  mix-blend-mode: multiply;
-  inset: 0;
-  /* z-index: 1; */
 }
 /* ================================= */
 
